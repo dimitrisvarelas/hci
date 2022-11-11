@@ -29,8 +29,8 @@
 
 Στο παραδοτέο 2 ξεκινάμε με μια εγκατάσταση του λογισμικού Archlinux σε VMware διότι αντιμέτωπισα αρκετά προβλήματα στην εγκατάσταση με dual-boot όπως πολλά errors κατά την εγκατάσταση κάποιον βασικών πακέτων των linux καθώς και μία πρώτη επαφή με το λογισμίκο αυτό χρησιμοποιώντας 2 απλές εντολές την [neofetch](https://asciinema.org/a/1YmbSuUwsj5InLi6p4siXiJhU) και την [journalctl](https://asciinema.org/a/mIRYLa9YajsMXkPzoGI4mAHI7). Στα επομένα παραδοτέα θέλω να γίνει μια κανονική εγκατάσταση του λογισμικού είτε με dual-boot είτε από flash drive. Τέλος θα ήθελα να μάθω και τις περαιτέρω δυνατότητες αυτού του λογισμικού διότι αυτές οι 2 απλές εντολές είναι μόνο η αρχη.
 
-### [neofetch](https://asciinema.org/a/1YmbSuUwsj5InLi6p4siXiJhU)
-### [journalctl](https://asciinema.org/a/mIRYLa9YajsMXkPzoGI4mAHI7)
+* [neofetch](https://asciinema.org/a/1YmbSuUwsj5InLi6p4siXiJhU)
+* [journalctl](https://asciinema.org/a/mIRYLa9YajsMXkPzoGI4mAHI7)
 
 
 
